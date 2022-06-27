@@ -1,8 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+//comment
+>>>>>>> parent of 58f7320 (final version)
 
-setTimeout(function () { 
-	location.href = 'rocket.html';},2000)
 
 var doCoolStuff = function () {
 	var currentClassName = 	document.getElementById('cool').className;
