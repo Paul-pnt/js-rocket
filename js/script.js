@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 setTimeout(function () { 
 	location.href = 'rocket.html';},2000)
@@ -19,6 +20,8 @@ var doCoolStuff = function () {
 }
 
 
+=======
+>>>>>>> parent of 76cb93e (made rocket)
 var sayMyName = function(name){
 
 	alert('my name is: ' + name);
